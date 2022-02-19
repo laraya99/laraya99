@@ -1,4 +1,4 @@
-# Hi there, I'm Lupe Araya 👋 
+# Hi there, I'm Guadalupe Araya 👋 
 
 
 ## I'm a Student and Developer
