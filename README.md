@@ -28,6 +28,7 @@ https://instagram.com/lupe_araya.1
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraya99)](https://github.com/laraya99/github-readme-stats)
 
