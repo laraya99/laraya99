@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning most as posible
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more languajes
+- 🥅 2023 Goals: Learn more languajes
 - ⚡ Fun fact: I love read fantasy books
 
 ### Connect with me:
